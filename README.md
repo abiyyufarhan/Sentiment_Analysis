@@ -18,7 +18,7 @@ Proyek *Natural Language Processing* (NLP) untuk menganalisis sentimen (**positi
 - [Alur Metodologi](#-alur-metodologi)
 - [Dataset](#-dataset)
 - [Instalasi](#%EF%B8%8F-instalasi)
-- [Cara Menjalankan](#-cara-menjalankan)
+- [Cara Menjalankan](#EF%B8%8F-cara-menjalankan)
 - [Hasil & Evaluasi Model](#-hasil--evaluasi-model)
 - [Teknologi yang Digunakan](#-teknologi-yang-digunakan)
 - [Rencana Pengembangan](#-rencana-pengembangan)
