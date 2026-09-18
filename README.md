@@ -22,7 +22,6 @@ Proyek *Natural Language Processing* (NLP) untuk menganalisis sentimen (**positi
 - [Hasil & Evaluasi Model](#-hasil--evaluasi-model)
 - [Teknologi yang Digunakan](#-teknologi-yang-digunakan)
 - [Rencana Pengembangan](#-rencana-pengembangan)
-- [Lisensi](#-lisensi)
 - [Kontak](#-kontak)
 
 ---
@@ -196,10 +195,6 @@ Perbandingan akurasi (*test accuracy*) dari seluruh model yang diuji pada data u
 - [ ] Menyimpan model terbaik (`pickle`/`joblib`) agar dapat digunakan untuk inferensi tanpa melatih ulang.
 - [ ] Membangun antarmuka sederhana (mis. Streamlit) untuk demo prediksi sentimen secara *real-time*.
 - [ ] Menambahkan *unit test* dan modularisasi kode preprocessing ke dalam skrip `.py` terpisah.
-
-## 📄 Lisensi
-
-Lisensi proyek ini belum ditentukan oleh pemilik repositori. Silakan hubungi pemilik repositori atau tambahkan berkas `LICENSE` (mis. MIT License) jika ingin menggunakan ulang kode ini secara terbuka.
 
 ## 📬 Kontak
 
